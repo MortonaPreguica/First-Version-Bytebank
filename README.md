@@ -1,16 +1,18 @@
-# flutter_application_1
+# First Version Bytebank 🏦
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto criado para estudos de flutter feitos na plataforma de educação alura.
 
-A few resources to get you started if this is your first Flutter project:
+Recursos e aprendizados 👨‍🏫:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Criação de um novo projeto em Flutter 💎
+- Como inicializar um dispositivo android no windows
+- Entendimento da linguagem dart ❤️
+- Funcionamento de Classes (hierarquia, polimorfismo e métodos)
+- Criação de Widgets
+- Refatoração
+- Estruturas de arquivos no Flutter
+- Boas Práticas no Flutter
